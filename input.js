@@ -1,9 +1,5 @@
 /*
-@蛋炒饭
-软件:上海杨浦
-功能:完成日常任务，每天55积分左右
-变量名:shypck
-注册登录之后进入页面开始抓包，随便点点，找到https://ypapi.shmedia.tech/media-basic-port/api开头的包，请求头里面token的值作为变量，多账号换行隔开
+ps://ypapi.shmedia.tech/media-basic-port/api开头的包，请求头里面token的值作为变量，多账号换行隔开
 定时:一天一次即可
 脚本验证卡密，填写在dcfkey里即可，卡密有效期1个月
 */
